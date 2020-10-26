@@ -1,0 +1,6 @@
+c:\users\nati\documents\visual studio 2017\Projects\newProj\Bot\Bot\bin\Debug\Bot.exe.config
+c:\users\nati\documents\visual studio 2017\Projects\newProj\Bot\Bot\bin\Debug\Bot.exe
+c:\users\nati\documents\visual studio 2017\Projects\newProj\Bot\Bot\bin\Debug\Bot.pdb
+c:\users\nati\documents\visual studio 2017\Projects\newProj\Bot\Bot\obj\Debug\Bot.csprojResolveAssemblyReference.cache
+c:\users\nati\documents\visual studio 2017\Projects\newProj\Bot\Bot\obj\Debug\Bot.exe
+c:\users\nati\documents\visual studio 2017\Projects\newProj\Bot\Bot\obj\Debug\Bot.pdb

@@ -1,0 +1,11 @@
+c:\users\nati\documents\visual studio 2017\Projects\newProj\Victim\Victim\bin\Debug\Victim.exe.config
+c:\users\nati\documents\visual studio 2017\Projects\newProj\Victim\Victim\bin\Debug\Victim.exe
+c:\users\nati\documents\visual studio 2017\Projects\newProj\Victim\Victim\bin\Debug\Victim.pdb
+c:\users\nati\documents\visual studio 2017\Projects\newProj\Victim\Victim\obj\Debug\Victim.exe
+c:\users\nati\documents\visual studio 2017\Projects\newProj\Victim\Victim\obj\Debug\Victim.pdb
+C:\Users\orel kakon\Desktop\תואר תכנה\סמסטר ה\מבוא לתקשורת נתונים\עבודות\newProj\Victim\Victim\bin\Debug\Victim.exe.config
+C:\Users\orel kakon\Desktop\תואר תכנה\סמסטר ה\מבוא לתקשורת נתונים\עבודות\newProj\Victim\Victim\bin\Debug\Victim.exe
+C:\Users\orel kakon\Desktop\תואר תכנה\סמסטר ה\מבוא לתקשורת נתונים\עבודות\newProj\Victim\Victim\bin\Debug\Victim.pdb
+C:\Users\orel kakon\Desktop\תואר תכנה\סמסטר ה\מבוא לתקשורת נתונים\עבודות\newProj\Victim\Victim\obj\Debug\Victim.csprojResolveAssemblyReference.cache
+C:\Users\orel kakon\Desktop\תואר תכנה\סמסטר ה\מבוא לתקשורת נתונים\עבודות\newProj\Victim\Victim\obj\Debug\Victim.exe
+C:\Users\orel kakon\Desktop\תואר תכנה\סמסטר ה\מבוא לתקשורת נתונים\עבודות\newProj\Victim\Victim\obj\Debug\Victim.pdb

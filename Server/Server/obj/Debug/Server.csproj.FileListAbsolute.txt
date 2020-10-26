@@ -1,0 +1,12 @@
+c:\users\nati\documents\visual studio 2017\Projects\newProj\Server\Server\bin\Debug\Server.exe.config
+c:\users\nati\documents\visual studio 2017\Projects\newProj\Server\Server\bin\Debug\Server.exe
+c:\users\nati\documents\visual studio 2017\Projects\newProj\Server\Server\bin\Debug\Server.pdb
+c:\users\nati\documents\visual studio 2017\Projects\newProj\Server\Server\obj\Debug\Server.exe
+c:\users\nati\documents\visual studio 2017\Projects\newProj\Server\Server\obj\Debug\Server.pdb
+C:\Users\orel kakon\Desktop\תואר תכנה\סמסטר ה\מבוא לתקשורת נתונים\עבודות\newProj\Server\Server\bin\Debug\Server.exe.config
+C:\Users\orel kakon\Desktop\תואר תכנה\סמסטר ה\מבוא לתקשורת נתונים\עבודות\newProj\Server\Server\bin\Debug\Server.exe
+C:\Users\orel kakon\Desktop\תואר תכנה\סמסטר ה\מבוא לתקשורת נתונים\עבודות\newProj\Server\Server\bin\Debug\Server.pdb
+C:\Users\orel kakon\Desktop\תואר תכנה\סמסטר ה\מבוא לתקשורת נתונים\עבודות\newProj\Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\orel kakon\Desktop\תואר תכנה\סמסטר ה\מבוא לתקשורת נתונים\עבודות\newProj\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\orel kakon\Desktop\תואר תכנה\סמסטר ה\מבוא לתקשורת נתונים\עבודות\newProj\Server\Server\obj\Debug\Server.exe
+C:\Users\orel kakon\Desktop\תואר תכנה\סמסטר ה\מבוא לתקשורת נתונים\עבודות\newProj\Server\Server\obj\Debug\Server.pdb
